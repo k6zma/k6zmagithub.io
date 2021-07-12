@@ -1,2 +1,2 @@
-# k6zmagithub.io
+# solvedpcgithub.io
 Мой первый хостинг
